@@ -1,2 +1,4 @@
 # hull-tactical-market-prediction
-My notebooks for the Hull Tactical Market Prediction [Kaggle competition](https://www.kaggle.com/competitions/hull-tactical-market-prediction). At time of writing, my [best submission]() used model [v23](./v23.ipynb) and ranks ~437/700.
+My notebooks for the Hull Tactical Market Prediction [Kaggle competition](https://www.kaggle.com/competitions/hull-tactical-market-prediction). 
+
+At time of writing, my [best submission](https://www.kaggle.com/competitions/hull-tactical-market-prediction/leaderboard?search=whitgroves) uses model [v29](./v29.ipynb).
